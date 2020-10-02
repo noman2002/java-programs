@@ -2,7 +2,7 @@
 		
 import java.util.Scanner;
 
-public class JavaProgram
+public class 2Darray
 {
    public static void main(String args[])
    {
